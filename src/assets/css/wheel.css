@@ -237,6 +237,9 @@
     }
   }
   @media only screen and (min-width:320px) and (max-width:440px){
+    .np-logo{
+     width:40vw;
+     height:30vw;
     .np1-logo{
       margin-left:150px;
       width: 20vw;
